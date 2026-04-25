@@ -2,6 +2,7 @@ Oi meu nome é Miguel
 Nova alteração na linha 2
 Nova mudança
 uma nova linha
+Nova alteração que talvez de conflito
 
 versão 1.0
 Nova alteração na linha 6
