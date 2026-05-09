@@ -7,3 +7,4 @@ Nova alteração que talvez de conflito
 alteracao feita pelo github
 Nova alteração na linha 6
 nova alteração 
+versão 1.5
