@@ -4,7 +4,7 @@ Nova mudança
 uma nova linha
 alteração deita local, que talvez de ruim
 Nova alteração que talvez de conflito
-
 versão 1.0
 alteracao feita pelo github
 Nova alteração na linha 6
+nova alteração 
